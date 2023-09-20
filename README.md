@@ -2,7 +2,7 @@
 
 # ✂️✏️📌 **How to Use <font color = 'red'> Markdown Language**
 * ## For <font color = 'orange'> more syntax</font> of markdown langauge,
-* # [google](https://www.google.com/)
+  # [google](https://www.google.com/)
 
 
 # 🌭🐸❤️ Python Language
