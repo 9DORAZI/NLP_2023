@@ -23,9 +23,7 @@
 *[Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
 |#|session|keywords|
-
-|;--:|;--;|;--;|
-
+|:--:|:--:|:--:|
 |1|Code Cells 🌧️|[variable,assign](https://github.com/9DORAZI/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|
 |2|Five Types of Data🌈|||
 
