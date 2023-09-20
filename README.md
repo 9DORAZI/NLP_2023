@@ -22,11 +22,12 @@
 *[Emoji](https://gist.github.com/rxaviers/7360908)
 *[Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
+|#|session|keywords|
 |;--:|;--;|;--;|
-|1|Code Cells |[variable,assign](https://github.com/9DORAZI/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|
-|2|Five Types of Data|||
+|1|Code Cells 🌧️|[variable,assign](https://github.com/9DORAZI/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|
+|2|Five Types of Data🌈|||
 
-# python languuage
+# 🥖💌🦫python languuage
 [Jump To Python 점프 투 파이썬](https://wikidocs.net/book/1)
 |#|session|keywords|
 |:--:|:--:|:--:|
