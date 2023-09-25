@@ -1,7 +1,7 @@
 # NLP_2023
 
 # ✂️✏️📌 **How to Use <font color = 'red'> Markdown Language**
-* ## For <font color = 'orange'> more syntax</font> of markdown langauge, # [Click Here!](https://www.google.com/)
+* ## For <font color = 'orange'> more syntax</font> of markdown langauge, [Click Here!](https://www.google.com/)
 
 
 # 🌭🐸❤️ Python Language
