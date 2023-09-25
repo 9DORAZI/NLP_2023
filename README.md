@@ -32,4 +32,4 @@
 |#|session|keywords|
 |:--:|:--:|:--:|
 |1|code cells|[variable,assign](https://github.com/9DORAZI/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|
-|2|Five Types of Data|https://github.com/9DORAZI/NLP_2023/blob/main/2_FiveTypesofData.ipynb|
+|2|Five Types of Data|[variable,assign](https://github.com/9DORAZI/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
